@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
 
 public class Startup
@@ -17,15 +18,17 @@ public class Startup
     // Este es el método ConfigureServices donde se configuran los servicios.
     public void ConfigureServices(IServiceCollection services)
     {
+        //Falta ConectionString
+       // services.AddDbContext<GalleryDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("")));
         services.AddSwaggerGen(c =>
-{
-    c.SwaggerDoc("v1", new OpenApiInfo
-    {
-        Title = "GaleriaDeFotos",
-        Version = "v1",
-        Description = "API para la Galería de Fotos"
-    });
-});
+            {
+             c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                 Title = "GaleriaDeFotos",
+                 Version = "v1",
+                 Description = "API para la Galería de Fotos"
+                });
+            });
         services.AddControllers();
     }
 
