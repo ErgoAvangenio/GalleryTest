@@ -1,0 +1,15 @@
+[33mcommit bbec2e7802aa0f26217c2fa1495e8fe9ee7be06b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ErgoCodes <ergoproxy404out@gmail.com>
+Date:   Wed Sep 6 04:17:51 2023 -0400
+
+     test Api de la Galería de Fotos
+    
+    En este commit, se han identificado los siguientes endpoints en el proyecto de la Galería de Fotos:
+    
+    1. Página de inicio que muestra las fotos del usuario en una cuadrícula.
+    2. Funcionalidad para agregar nuevas fotos a la galería.
+    3. Funcionalidad para ver los detalles de una foto al hacer clic en ella.
+    4. Posibilidad de eliminar fotos de la galería.
+    5. Funcionalidad para editar el título y la descripción de las fotos en la galería.
+    6. Almacenamiento local de las fotos en el navegador para acceso posterior.
+    7. Diseño responsivo para garantizar la accesibilidad en varios dispositivos.
