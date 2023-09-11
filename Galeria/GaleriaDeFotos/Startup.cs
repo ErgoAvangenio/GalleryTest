@@ -61,16 +61,16 @@ public class Startup
     }
 
     // Este es el método Main donde comienza la aplicación.
-    public static void Main(string[] args)
-    {
+//     public static void Main(string[] args)
+//     {
       
-        CreateHostBuilder(args).Build().Run();
-    }
+//         CreateHostBuilder(args).Build().Run();
+//     }
 
-    public static IHostBuilder CreateHostBuilder(string[] args) =>
-        Host.CreateDefaultBuilder(args)
-            .ConfigureWebHostDefaults(webBuilder =>
-            {
-                webBuilder.UseStartup<Startup>();
-            });
+//     public static IHostBuilder CreateHostBuilder(string[] args) =>
+//         Host.CreateDefaultBuilder(args)
+//             .ConfigureWebHostDefaults(webBuilder =>
+//             {
+//                 webBuilder.UseStartup<Startup>();
+//             });
 }

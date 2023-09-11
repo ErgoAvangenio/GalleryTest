@@ -31,3 +31,36 @@ C:\Users\Administrator\Documents\VS Code Projects\Galeria\GaleriaDeFotos\obj\Deb
 C:\Users\Administrator\Documents\VS Code Projects\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.pdb
 C:\Users\Administrator\Documents\VS Code Projects\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.genruntimeconfig.cache
 C:\Users\Administrator\Documents\VS Code Projects\Galeria\GaleriaDeFotos\obj\Debug\net7.0\ref\GaleriaDeFotos.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.csproj.AssemblyReference.cache
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.AssemblyInfoInputs.cache
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.AssemblyInfo.cs
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\refint\GaleriaDeFotos.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.pdb
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\appsettings.json
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\GaleriaDeFotos.exe
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\GaleriaDeFotos.deps.json
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\GaleriaDeFotos.runtimeconfig.json
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\GaleriaDeFotos.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\GaleriaDeFotos.pdb
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\Microsoft.OpenApi.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\staticwebassets\msbuild.GaleriaDeFotos.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\staticwebassets\msbuild.build.GaleriaDeFotos.props
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GaleriaDeFotos.props
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GaleriaDeFotos.props
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\scopedcss\bundle\GaleriaDeFotos.styles.css
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.csproj.CopyComplete
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\GaleriaDeFotos.genruntimeconfig.cache
+c:\Users\Admin\Documents\VSCode projects\GalleryTest\Galeria\GaleriaDeFotos\obj\Debug\net7.0\ref\GaleriaDeFotos.dll
